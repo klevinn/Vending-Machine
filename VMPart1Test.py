@@ -1,5 +1,4 @@
 # Author : Calvin Lai
-# Admin No : 212775C
 
 import copy
 #  To have access to a code that allows me to get a completely independent copy
