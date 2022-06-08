@@ -4,7 +4,7 @@ Python Programming Assignment done in Y1S1 of NYP
 Project is already completed and no longer updated
 
 <h1 align="center">
-    <img src="assets/nyplogo.png" style="width: 50%; height: auto;" alt="NYP logo">
+    <img src="nyplogo.png" style="width: 50%; height: auto;" alt="NYP logo">
     <br>
     Vending Machine
     <br>
