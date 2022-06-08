@@ -1,8 +1,5 @@
 # Vending-Machine
 
-Python Programming Assignment done in Y1S1 of NYP
-Project is already completed and no longer updated
-
 <h1 align="center">
     <img src="nyplogo.png" style="width: 50%; height: auto;" alt="NYP logo">
     <br>
@@ -48,3 +45,5 @@ Python Programming Assigment after learning Python for the first time.
 Assignment is for educational purposes
 
 Made when I just started learning Python
+
+Python Project is no longer being updated
